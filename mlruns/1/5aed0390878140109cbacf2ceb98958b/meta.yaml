@@ -1,0 +1,15 @@
+artifact_uri: file:///home/edwards/code/dd-edwards/TaxiFareModel/mlruns/1/5aed0390878140109cbacf2ceb98958b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 5aed0390878140109cbacf2ceb98958b
+run_uuid: 5aed0390878140109cbacf2ceb98958b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1623931160379
+status: 1
+tags: []
+user_id: unknown
